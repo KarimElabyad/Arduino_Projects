@@ -1,2 +1,2 @@
-# Gas_Alarm
-Gas &amp; Temperature Alarm device using Arduino
+# Arduino Projects
+GAS/TEMP Alarm, Alarm Robot, Blind Navigation assistor
